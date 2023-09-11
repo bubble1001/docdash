@@ -2,7 +2,7 @@
 /**
  * @fileOverview A model is the first level if usable data-bearing entity in the system. It does NOT include any verbs for saving or anything like
  * that, it is a pure, in memory data container
- * @module documents/model
+ * @module documents/model啊啊啊啊
  * @require base
  * @require documents/probe
  * @require lodash
